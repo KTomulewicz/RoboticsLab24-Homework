@@ -1,2 +1,2 @@
-# Test
-Test repository for Robotics Lab
+# Robotics Lab
+Repository for Robotics Lab
